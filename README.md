@@ -22,7 +22,7 @@ Original data source: https://github.com/gavinr/usa-soccer/blob/master/mls.csv
 
 **Stadium Capacity By State**
 
-(A chart of stadium capacities across states)(chart2.png)
+![A chart of stadium capacities across states](chart2.png)
 
 This scatter plot shows the stadium capacity for teams in different states. The code checks for small (less than10,000) and large (more than 10,000) stadiums. The graph shows that all MLS teams in this dataset play in large stadiums, with the smallest holding 18,000 people.
 
